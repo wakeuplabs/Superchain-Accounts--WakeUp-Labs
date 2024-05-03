@@ -62,9 +62,5 @@ A post-mission report should be published, that will cover the following element
 - Season 5 Learnings: The mission recipients learn from building in Season 5.
 - Future Iterations: Suggestions for the next steps for Superchain Accounts based on the insights from the report.
 
-**Has anyone other than the Proposing Delegate contributed to this Mission Request? If so, who, and what parts of this application did they contribute to?**
-
-Yes, this is a sponsored mission request originally proposed by @SuperchainEco
-
 Edit: Removed design requirement for PGN, and added potential for other chains integration. It will be up to the team that applies for the grant.
 
