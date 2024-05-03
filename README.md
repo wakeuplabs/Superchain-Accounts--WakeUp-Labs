@@ -1,5 +1,5 @@
 # Superchain Accounts - Optimism Mission Request
-## Esta es la licitación oficial (a.k.a Mission Request) que publicó Optimimism, que WakeUp Labs fue seleccionada. Primero lean esto, y luego nuestra propuesta.
+## Esta es la licitación oficial (a.k.a Mission Request) que publicó Optimism, que WakeUp Labs fue seleccionada. Primero lean esto, y luego nuestra propuesta.
 
 **Superchain Accounts: Accelerating meaningful participation in the Superchain Ecosystem.**
 
